@@ -7,8 +7,8 @@ Ce logiciel permet de créer un cv avec un template déjà fait seulement en ren
 
 # Utilisation :
 2 maniéres :
-- Telecharger le ficier PPE.jer et le lancer
-- Allez dans son IDE et clone le projet avec ce lien :
+- Telecharger le ficier PPE.jar et le lancer
+- Allez dans son IDE et clone le projet avec ce lien : https://github.com/OznerolLurcat/ppe-projet.git
 
 # Documentation:
 
